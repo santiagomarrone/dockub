@@ -1,1 +1,1 @@
-docker run -p 3000:80 334837ba6abd
+docker run -p 3000:80 --rm 334837ba6abd
