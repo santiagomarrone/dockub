@@ -1,0 +1,1 @@
+docker stop relaxed_bartik
